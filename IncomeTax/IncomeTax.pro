@@ -5,7 +5,9 @@ CONFIG -= qt
 
 SOURCES += main.cpp \
     calculatetax.cpp \
-    test.cpp
+    test.cpp \
+    incometax7.cpp
 
 HEADERS += \
-    header.h
+    header.h \
+    incometax7.h
